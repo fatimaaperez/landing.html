@@ -1,0 +1,43 @@
+.top {
+    color: rgb(18, 73, 18);
+}
+
+.hero {
+    background-image: url("assets/heroImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+   
+}
+
+.welcome { 
+    margin-top: 80px;
+}
+
+.sub { 
+    margin-top: 80px;
+}
+
+.cta {
+    margin-top: 80px;
+}
+
+.cards { 
+    width: 1000px;
+    margin-top: 80px;
+    margin-left: 150px;
+    padding: 10px;
+}
+
+#input1{
+    margin-top: 20px;
+    width: 200px;
+}
+
+label {
+    margin-left: 50px;
+}
+
+.borderless {
+    border-top: 0 none;
+}
